@@ -32,5 +32,6 @@ include 'includes/header.php'?>
         echo "<h1>My Name is: ".$name."</h1>"
 
     ?>
-<button>CLICK ME!</button>
+<button type="button" class="btn btn-success">CLICK ME!</button>
+
 <?php require 'includes/footer.php'?>
